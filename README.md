@@ -5,5 +5,4 @@ Some of the files I could not uploaded were big sized so, only the libraries and
 The application is written in flutter dart. The database is managed with Firebase, it is cross platform. 
 The recommendation algorithm was designed with Python and Sci-Kit Learn. Flask API was used for the API, gunicorn and nginx were used for the server.
 
-
-![Screenshot_1](https://github.com/user-attachments/assets/544880ef-255a-45cc-987f-5e5a6511bf17)
+![image](https://github.com/user-attachments/assets/e20d149b-5f86-4594-8b09-81fa8745f848)
